@@ -1,0 +1,5 @@
+{
+  "name": "PEA Computer Asset Management",
+  "description": "A modern web application for managing computer assets with real-time Google Sheets integration, per-column filtering, and inline editing features, designed with the PEA signature purple aesthetic.",
+  "requestFramePermissions": []
+}
